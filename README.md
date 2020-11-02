@@ -1,6 +1,6 @@
 # iam-policies
 
-## Example of an complete use case
+## Complete use case example
 The following code will provide you're AWS environment with an S3 Bucket ("**my-awesome-bucket-name**"), containing the following folder structure:
 
     |_ foo
