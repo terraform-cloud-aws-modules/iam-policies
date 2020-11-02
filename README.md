@@ -84,7 +84,7 @@ To achieve this, please take a look in the following code:
 ### Example outputs.tf
 
     output "bucket_arn" {
-    	value        = module.s3.this_s3_bucket_arn
+        value        = module.s3.this_s3_bucket_arn
     }
 ### Example common.tfvars
 
